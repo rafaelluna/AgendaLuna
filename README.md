@@ -1,2 +1,2 @@
-# COSC190Assignment1
+# AgendaLuna
 Appointment
